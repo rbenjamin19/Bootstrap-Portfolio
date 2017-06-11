@@ -1,0 +1,178 @@
+.navbar-default .navbar-brand {
+    color: #ffffff;
+    margin-left: 50px;
+    background-color:#4aaaa5;
+}
+
+.navbar>.container-fluid .navbar-brand {
+    margin-left: 75px;
+}
+
+#right{
+	border:1.5px solid #cccccc;
+	height:225px;
+	margin-left:5px;
+	margin-right:-5px;
+}
+
+#rightport{
+	border:1.5px solid #cccccc;
+	height:225px;
+	margin-left:5px;
+	margin-right:-5px;
+
+
+
+}
+
+#left{
+	border:1.5px solid #cccccc;
+	margin-left:5px;
+	margin-right:-5px;
+	margin-bottom:15px;
+}
+
+
+.form-group,
+.btn{
+	margin:5px;
+
+}   
+
+#one{
+	width:135px;
+	height:100%;
+	margin-bottom:5px;
+
+}
+
+.navbar-right {
+    float: right!important;
+    margin-right: 75px;
+
+}
+
+#newb{
+	margin-bottom:50px;
+}
+
+.navbar-fixed-bottom {
+	border-top:5px solid #4aaaa5 ;
+}
+
+#form{
+	border: solid 1.5px #cccccc !important;
+	padding:5px;
+	height:250px;
+	margin-left:5px;
+	margin-right:-5px;
+	margin-bottom:15px;
+
+}
+
+#par1{
+	margin-left:20px;
+	
+}
+
+#offrbox{
+	margin-top:30px;
+}
+
+#top2{
+	margin-bottom:15px;
+}
+
+#images{
+	margin-bottom:15px;
+}
+
+#clt,#li, #sanfran,
+#argentina 
+{
+	position:relative;
+	
+}
+
+.caption.col-lg-6{
+	position:absolute;
+	bottom:5%;
+	left:15px;
+	line-height:100%;
+	width:89%;
+	color:white;
+	border: 1px solid #4aaaa5;
+	background-color:#4aaaa5;
+	text-align:center;
+
+}
+
+#cltmd, #limd, #sfmd,
+#argmd{
+	position:absolute;
+	bottom:5%;
+	left:15px;
+	line-height:100%;
+	width:86%;
+	color:white;
+	border: 1px solid #4aaaa5;
+	background-color:#4aaaa5;
+	text-align:center;
+}
+
+#cltsm, #lism, #sfsm,
+#argsm{
+	position:absolute;
+	bottom:5%;
+	left:15px;
+	line-height:100%;
+	width:89.2%;
+	color:white;
+	border: 1px solid #4aaaa5;
+	background-color:#4aaaa5;
+	text-align:center;
+}
+
+.caption.col-md-6{
+	position:absolute;
+	bottom:5%;
+	left:15px;
+	line-height:100%;
+	width:100% auto;
+	color:white;
+	border: 1px solid #4aaaa5;
+	background-color:#4aaaa5;
+	text-align:center;
+}
+
+
+hr{
+	border: solid 1.5px #cccccc !important;
+	background-color: #cccccc;
+}
+
+p {
+    float:left;
+    
+}
+
+h2{
+	color:#4aaaa5;
+}
+	
+footer{
+	color: #ffffff;
+    background-color: #666666;
+    text-align:center;
+    line-height:3;
+
+
+}
+
+@media only screen and (min-width : 992px) {
+	#par1{
+		margin-left:0px;
+	}
+
+}
+
